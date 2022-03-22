@@ -1,1 +1,1 @@
-# Practical_Image-
+Practical_Image
